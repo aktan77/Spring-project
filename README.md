@@ -25,3 +25,6 @@ Contributions to this project are welcome. If you want to contribute, please for
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+![Screenshot1](https://user-images.githubusercontent.com/120569380/228063365-43222055-8553-4609-9c80-12919bb996e1.png)
+![Screenshot2](https://user-images.githubusercontent.com/120569380/228063424-933c5c10-3094-4ae1-b6d8-65a262877b9e.png)
